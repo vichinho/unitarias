@@ -1,7 +1,7 @@
 package com.pruebas.unitarias.controller;
 
 import com.pruebas.unitarias.model.Mascota;
-import com.pruebas.unitarias.service.MascotaService;
+import com.pruebas.unitarias.Service.MascotaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
